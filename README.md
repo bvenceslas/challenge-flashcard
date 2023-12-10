@@ -4,7 +4,7 @@ Flash Cards of questions and answers
 
 ## Preview
 
-[Flash Card](https://bvenceslas.github.io/challenge-accordion)
+[Flash Card](https://bvenceslas.github.io/challenge-flashcard)
 
 ## Getting Started
 
