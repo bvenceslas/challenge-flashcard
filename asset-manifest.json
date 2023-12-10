@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/challenge-accordion/static/css/main.d57a41d8.css",
+    "main.js": "/challenge-accordion/static/js/main.633c7e56.js",
+    "index.html": "/challenge-accordion/index.html",
+    "main.d57a41d8.css.map": "/challenge-accordion/static/css/main.d57a41d8.css.map",
+    "main.633c7e56.js.map": "/challenge-accordion/static/js/main.633c7e56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d57a41d8.css",
+    "static/js/main.633c7e56.js"
+  ]
+}
